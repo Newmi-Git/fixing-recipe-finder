@@ -12,8 +12,7 @@ A. The Action:
    hint: Updates were rejected because the remote contains work that you do
    hint: not have locally. This is usually caused by another repository pushing
    hint: to the same ref. You may want to first integrate the remote changes
-   hint: (e.g., 'git pull ...') before pushing again.
-   "
+   hint: (e.g., 'git pull ...') before pushing again."
    Solve the roadblock: Why is this error here and explain why it's happening.
 
    ![alt text](image.png)
