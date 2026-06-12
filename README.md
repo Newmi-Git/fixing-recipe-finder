@@ -16,6 +16,8 @@ A. The Action:
    "
    Solve the roadblock: Why is this error here and explain why it's happening.
 
+   ![alt text](image.png)
+
 B. The Action:
 
 1. Create a new branch to work on a login feature, but make a typo: name it login-featur.(Create it using git checkout -b login-featur).
@@ -26,6 +28,8 @@ B. The Action:
 
 The Roadblock: Your team lead sees your screen and says: "Fix that branch name typo immediately, and do NOT commit that .tmp file to GitHub!"
 Solve the roadblock: What must you do?(commands only)
+
+![alt text](image-1.png)
 
 C. The Action:
 
